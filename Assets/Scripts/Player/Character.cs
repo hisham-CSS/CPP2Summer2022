@@ -101,6 +101,6 @@ public class Character : MonoBehaviour
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {
-
+        
     }
 }
